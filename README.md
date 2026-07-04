@@ -36,8 +36,3 @@ IPv4:
 - Windows API
 - 
 
-## Technologies
-
-- C
-- WinSock2
-- Windows API
